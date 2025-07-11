@@ -32,7 +32,7 @@ This is a simple GUI-based Keylogger tool. The project was designed for *ethical
 
 ## 🚀 How It Works
 
-1. Launch the app using python keylogger_gui.py
+1. Launch the app using python keylogger.py
 2. Click *Start* → Keylogging begins  
 3. Keyboard inputs are captured in background  
 4. Click *Stop* → Listener stops and file logging ends
